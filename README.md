@@ -1,6 +1,6 @@
 <div align="center">
 
-# Merhaba, ben Ahmet! 👋
+# Merhaba, ben Ali! 👋
 
 **Python · Java · Flutter geliştirici**
 
