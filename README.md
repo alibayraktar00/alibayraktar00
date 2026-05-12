@@ -77,12 +77,11 @@ class AliBayraktar:
 
 ## 🚀 Öne Çıkan Projeler
 
-<div align="center">
-
-[![Proje 1](https://github-readme-stats.vercel.app/api/pin/?username=alibayraktar00&repo=talentmesh&theme=tokyonight&hide_border=true)](https://github.com/alibayraktar00/talentmesh)
-[![Proje 2](https://github-readme-stats.vercel.app/api/pin/?username=alibayraktar00&repo=game_riziko&theme=tokyonight&hide_border=true)](https://github.com/alibayraktar00/game_riziko)
-
-</div>
+| Proje | Açıklama | Teknoloji |
+|-------|----------|-----------|
+| [talentmesh](https://github.com/alibayraktar00/talentmesh) | Mobil uygulama projesi | Flutter / Dart |
+| [game_riziko](https://github.com/alibayraktar00/game_riziko) | Riziko masa oyunu | Flutter / Dart |
+| [alibayraktar00.github.io](https://github.com/alibayraktar00/alibayraktar00.github.io) | Kişisel web sitesi | HTML |
 
 ---
 
@@ -99,7 +98,7 @@ class AliBayraktar:
 
 <div align="center">
 
-[![Ahmet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alibayraktar00&theme=tokyo-night&hide_border=true)](https://github.com/alibayraktar00)
+[![alibayraktar00's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alibayraktar00&theme=tokyo-night&hide_border=true)](https://github.com/alibayraktar00)
 
 </div>
 
